@@ -1,6 +1,8 @@
 import java.util.*;
-
-public class Driver {
+/*
+* Commited by fazlaejerhasiolanvarmi to encoding URL.
+*/
+public class Encode {
 
     public static void main(String[] args) {
 
